@@ -1,6 +1,6 @@
 # 🌦️ Mosam App
 
-Welcome to **Mosam App**! A simple and intuitive weather application that provides you with the latest weather information based on the location you enter. No need to enable location services—just type in the city or area you want to check the weather for, and Mosam App will do the rest! 🌍
+Welcome to **Mosam App**! A simple and intuitive weather application that provides you with the latest weather information based on the location you enter. No need to enable location services — just type in the city or area you want to check the weather for, and Mosam App will do the rest! 🌍
 
 ## 🌟 Features
 
